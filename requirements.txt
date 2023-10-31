@@ -1,0 +1,4 @@
+persist_ext
+jupyterlab
+altair
+paretoset
