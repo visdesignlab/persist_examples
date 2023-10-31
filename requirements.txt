@@ -2,3 +2,5 @@ persist_ext
 jupyterlab
 altair
 paretoset
+seaborn
+matplotlib
