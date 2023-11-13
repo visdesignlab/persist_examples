@@ -1,6 +1,8 @@
-persist_ext>=1
+persist_ext==1.5.9rc2
 jupyterlab>=4
 altair>=5
 paretoset
-seaborn
+pandas
+numpy
 matplotlib
+seaborn
