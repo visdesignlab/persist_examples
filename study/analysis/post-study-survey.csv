@@ -1,4 +1,4 @@
-pid,renaming_columns,deleting columns,changing_dtype,interactive_selections,filtering_selections,categorization,history
+PID,Rename Cols,Delete Cols,Change Col DType,Interactive Sels,Filter Sels,Categorization,History
 1,5,5,5,5,5,5,5
 2,5,5,5,5,5,5,5
 3,5,5,5,4,5,5,5

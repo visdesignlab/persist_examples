@@ -1,4 +1,4 @@
-pid,order,condition,dataset,nb_reproducible,skipped,not_reasons
+PID,Order,Condition,Dataset,Reproducible,Skipped,Reasons
 1,1,Persist,Avalanche,TRUE,FALSE,-
 1,2,Pandas,Video Games,TRUE,FALSE,-
 2,1,Pandas,Avalanche,TRUE,FALSE,-

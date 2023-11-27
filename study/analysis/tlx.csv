@@ -1,4 +1,4 @@
-pid,order,condition,dataset,mental_demand,physical_demand,temporal_demand,performance,effort,frustration
+PID,Order,Condition,Dataset,Mental Demand,Physical Demand,Temporal Demand,Performance,Effort,Frustration
 1,1,Persist,Avalanche,5,0,5,0,5,0
 1,2,Pandas,Video Games,90,0,100,60,95,85
 2,1,Pandas,Avalanche,35,0,60,10,50,5

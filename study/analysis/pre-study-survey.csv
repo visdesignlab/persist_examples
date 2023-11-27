@@ -1,4 +1,4 @@
-pid,python_reported_exp,main_da_lang,pandas_reported_exp,data_wrangling_reported_exp,vis_lib,degree_enrolled,non_coursework_data_exp,domain_data_exp
+PID,Python Reported Exp,Data Analysis Lang,Pandas Reported Exp,Data Wrangling Reported Exp,Vis Libraries Used,Degree Enrolled,Non Coursework Data Exp,Domain Exp
 1,3,Python,3,3,"matplotlib, seaborn",Undergrad,N,NA
 2,4,Python,3,3,"matplotlib, seaborn",MS,Y,Unknown
 3,3,Python,3,3,"matplotlib, seaborn",MS,N,NA
