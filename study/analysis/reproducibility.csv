@@ -1,0 +1,23 @@
+pid,order,condition,dataset,nb_reproducible,skipped,not_reasons
+1,1,Persist,Avalanche,TRUE,FALSE,-
+1,2,Pandas,Video Games,TRUE,FALSE,-
+2,1,Pandas,Avalanche,TRUE,FALSE,-
+2,2,Persist,Video Games,TRUE,FALSE,-
+3,1,Persist,Video Games,TRUE,FALSE,-
+3,2,Pandas,Avalanche,TRUE,FALSE,-
+4,1,Pandas,Video Games,FALSE,TRUE,3a - cannot setitem on a Categorical with new category - skipped
+4,2,Persist,Avalanche,TRUE,FALSE,-
+5,1,Persist,Avalanche,TRUE,FALSE,-
+5,2,Pandas,Video Games,FALSE,FALSE,"does not break, but has incorrect output for 2b. Need a cell to run twice to filter correctly"
+6,1,Pandas,Avalanche,TRUE,FALSE,-
+6,2,Persist,Video Games,TRUE,FALSE,-
+7,1,Persist,Video Games,TRUE,FALSE,-
+7,2,Pandas,Avalanche,FALSE,TRUE,"1c - Unable to parse string - skipped, 3a - syntax error - skipped"
+9,1,Persist,Avalanche,TRUE,FALSE,-
+9,2,Pandas,Video Games,TRUE,FALSE,-
+12,1,Pandas,Video Games,FALSE,TRUE,"1a - Key error - skipped, 3a - TypeError - skipped"
+12,2,Persist,Avalanche,TRUE,FALSE,-
+13,1,Persist,Avalanche,TRUE,FALSE,-
+13,2,Pandas,Video Games,FALSE,TRUE,3a - ValueError length does not match. Skipped
+14,1,Pandas,Avalanche,TRUE,FALSE,-
+14,2,Persist,Video Games,TRUE,FALSE,-
