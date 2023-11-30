@@ -13,11 +13,11 @@ PID,Order,Condition,Dataset,Reproducible,Skipped,Reasons
 6,2,Persist,Video Games,TRUE,FALSE,-
 7,1,Persist,Video Games,TRUE,FALSE,-
 7,2,Pandas,Avalanche,FALSE,TRUE,"1c - Unable to parse string - skipped, 3a - syntax error - skipped"
-9,1,Persist,Avalanche,TRUE,FALSE,-
-9,2,Pandas,Video Games,TRUE,FALSE,-
-12,1,Pandas,Video Games,FALSE,TRUE,"1a - Key error - skipped, 3a - TypeError - skipped"
-12,2,Persist,Avalanche,TRUE,FALSE,-
-13,1,Persist,Avalanche,TRUE,FALSE,-
-13,2,Pandas,Video Games,FALSE,TRUE,3a - ValueError length does not match. Skipped
-14,1,Pandas,Avalanche,TRUE,FALSE,-
-14,2,Persist,Video Games,TRUE,FALSE,-
+8,1,Persist,Avalanche,TRUE,FALSE,-
+8,2,Pandas,Video Games,TRUE,FALSE,-
+9,1,Pandas,Video Games,FALSE,TRUE,"1a - Key error - skipped, 3a - TypeError - skipped"
+9,2,Persist,Avalanche,TRUE,FALSE,-
+10,1,Persist,Avalanche,TRUE,FALSE,-
+10,2,Pandas,Video Games,FALSE,TRUE,3a - ValueError length does not match. Skipped
+11,1,Pandas,Avalanche,TRUE,FALSE,-
+11,2,Persist,Video Games,TRUE,FALSE,-
